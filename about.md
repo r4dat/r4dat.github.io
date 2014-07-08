@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This blog is to chronicle my thoughts and ideas relating to optimization, computer science, and statistics. My undergraduate degree is in Economics and I have a strong background in computer science and mathematics.
+This blog is to chronicle my thoughts and ideas relating to optimization, computer science, and statistics. This will run the gamut from (some) work-related projects to various Coursera courses and other more academic pursuits. 
 
 ## Theme
 
