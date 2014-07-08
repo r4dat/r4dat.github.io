@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            R4Dat
 tagline:          'A brief description'
-description:      'Personal thoughts on <a href="https://www.informs.org/About-INFORMS/What-is-Operations-Research" target="_blank">Operations Research</a>, and Statistics, and Analytics.'
+description:      'Personal thoughts on <a href="https://www.informs.org/About-INFORMS/What-is-Operations-Research" target="_blank">Operations Research</a>, Statistics, and Analytics.'
 url:              https://github.com/r4dat
 baseurl:          /
 
