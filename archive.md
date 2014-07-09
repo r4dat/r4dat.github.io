@@ -8,6 +8,6 @@ sitemap:
 ---
   {% for post in site.posts %}
   <p>
-      [{{ post.title }}]("{{ post.url }}")
+      "{{ post.title }}"("{{ post.url }}")
   </p>
   {% endfor %}
