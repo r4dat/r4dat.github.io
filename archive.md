@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Archive
 sitemap:
   priority: 0.7
   changefreq: weekly
