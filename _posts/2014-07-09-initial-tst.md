@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Initial Test
 published: True
 categories: ["Misc"]
