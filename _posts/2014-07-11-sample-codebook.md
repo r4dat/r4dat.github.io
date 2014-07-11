@@ -6,7 +6,7 @@ categories: []
 tags: []
 ---
 
-** Coursera Data Science - Data Cleaning Codebook:
+##Coursera Data Science - Data Cleaning Codebook:
 
 Design of *Human Activity Recognition Using Smartphones*
 ==============
